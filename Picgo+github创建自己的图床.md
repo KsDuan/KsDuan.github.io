@@ -15,7 +15,7 @@
 
 在[Github](https://github.com/Molunerfinn/PicGo/releases)页面下载Picgo，选一个稳定版就行。
 
-![image-20210216112347753](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210216115000.png)
+![image-20210216112347753](Picgo+github创建自己的图床.assets/20210216115000.png)
 
 # 2. 创建GitHub仓库
 
@@ -23,11 +23,11 @@
 
 点击右上角头像，进入setting页面：
 
-![image-20210216112900619](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210216115001.png)
+![image-20210216112900619](Picgo+github创建自己的图床.assets/20210216115001.png)
 
 在页面最新下找到 `Developer settings`，点击进入；
 
-![image-20210216112937658](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210216115002.png)
+![image-20210216112937658](Picgo+github创建自己的图床.assets/20210216115002.png)
 
 创建token，输入密码后，复制生成的token，这个密令只出现一次，记得及时保存。忘记了重新生成就好。
 
@@ -49,5 +49,5 @@
 
   可填可不填
 
-![image-20210216113102448](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210216115003.png)
+![image-20210216113102448](Picgo+github创建自己的图床.assets/20210216115003.png)
 

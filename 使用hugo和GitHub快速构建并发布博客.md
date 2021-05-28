@@ -12,17 +12,17 @@ hugo是一个快速的静态网站引擎，使用Go语言开发，可以用Markd
 
 2. 解压缩后，把所在的文件夹添加进系统环境变量PATH，如图所示：
 
-   ![image-20210215215448314](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210215231104.png)
+   ![image-20210215215448314](使用hugo和GitHub快速构建并发布博客.assets/20210215231104.png)
 
    *这里是解压后的软件文件夹*
 
-   ![image-20210215215546599](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210215231105.png)
+   ![image-20210215215546599](使用hugo和GitHub快速构建并发布博客.assets/20210215231105.png)
 
    *你需要将所在文件夹添加PATH*
 
    3. 测试hugo是否正常使用：打开power shell，输入``` hugo ```，出现以下信息，说明正常：
 
-      ![image-20210215215818210](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210215231106.png)
+      ![image-20210215215818210](使用hugo和GitHub快速构建并发布博客.assets/20210215231106.png)
 
       
 
@@ -60,7 +60,7 @@ config.toml
 
 打开first.md文件，在这里你可以写下你的文章内容，保存退出。
 
-![image-20210215220950619](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210215231108.png)
+![image-20210215220950619](使用hugo和GitHub快速构建并发布博客.assets/20210215231108.png)
 
 ## 2.2 安装主题
 
@@ -78,11 +78,11 @@ hugo有很多主题，你可以在他们的[GitHub主页](https://github.com/goh
 
 ``` hugo server -D ```
 
-![image-20210215222200270](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210215231109.png)
+![image-20210215222200270](使用hugo和GitHub快速构建并发布博客.assets/20210215231109.png)
 
 根据提示访问http://localhost:1313/页面，如无差错页面将显示以下内容：
 
-![image-20210215222521263](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210215231110.png)
+![image-20210215222521263](使用hugo和GitHub快速构建并发布博客.assets/20210215231110.png)
 
 # 3. 将站点托管至Github
 
@@ -100,7 +100,7 @@ hugo有很多主题，你可以在他们的[GitHub主页](https://github.com/goh
 
 这会生成一个public目录用于发布站点
 
-![image-20210215223406975](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210215231111.png)
+![image-20210215223406975](使用hugo和GitHub快速构建并发布博客.assets/20210215231111.png)
 
 在public目录下打开git bash，把所有文件上传至远程仓库：
 

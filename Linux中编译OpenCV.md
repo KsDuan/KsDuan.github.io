@@ -57,11 +57,11 @@ FFMPEG:                      YES
 
 当出现Configure done和Generate done时，说明opencv已经安装完毕，现在你可以检查一下文件夹```/usr/local/include```和```/usr/local/lib```这里是共享库的位置。
 
-![Alt](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210213205926.png)
+![Alt](Linux中编译OpenCV.assets/20210213205926.png)
 
 **这里应该有opencv和opencv2的文件夹**
 
-![Alt](https://raw.githubusercontent.com/KsDuan/drawing-bed/master/BlogImg/20210213210024.png)
+![Alt](Linux中编译OpenCV.assets/20210213210024.png)
 
 **这里会有很多的.so文件**
 
