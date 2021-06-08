@@ -328,7 +328,7 @@ for(vector<float>::iterator it = vecClass.begin();it!=vecClass.end();it++)
 
 **二维数组的使用：**
 
-```
+```c++
 #include "stdafx.h"  
 #include <cv.h>  
 #include <vector>   

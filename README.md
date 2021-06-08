@@ -1,11 +1,21 @@
-# blog-repo
-个人文章仓库
+# About me
 
-## [关于我](./about.md)
+:rocket:航天系在读学生，这里是我的个人文章仓库，平时分享一些学习总结、心得。
 
-## 文章列表
+## Learning
 
-- [Linux中编译OpenCV](./Linux中编译OpenCV.md)
-- [Picgo+github创建自己的图床](./Picgo+github创建自己的图床.md)
-- [使用hugo和GitHub快速构建并发布博客](./使用hugo和GitHub快速构建并发布博客.md)
+* OpenCV
+* ZYNQ&FPGA
+* Linux for ARM
+* c++
+## Find me
 
+- shiyang.duan.cn@gmail.com
+
+* [Github](https://github.com/KsDuan)
+
+* [微博](https://weibo.com/u/6339798254)
+
+* [知乎](https://www.zhihu.com/people/sy-d-28)
+
+## Thank You :smile:
